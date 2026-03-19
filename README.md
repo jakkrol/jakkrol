@@ -1,6 +1,6 @@
 ### Hi there, I'm Jakub! 👋
 
-I am an **Applied Computer Science** student at **Cracow University of Technology** with a strong technical foundation as a certified **IT Technician**. My background in hardware diagnostics and system administration gives me a "full-picture" understanding of how software interacts with the underlying infrastructure.
+I am an **Applied Computer Science** student at **Cracow University of Technology** 
 
 - 🎓 **Education:** B.Sc. in Applied Computer Science (2024 - Present).
 - 🚀 **Current Focus:** I am a technology enthusiast, actively exploring various fields of software development. I don't limit myself to one stack — I am **open to learning any technology** and adaptable to different project requirements, from backend services to cross-platform mobile apps.
