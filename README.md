@@ -11,4 +11,4 @@ I am an **Applied Computer Science** student at **Cracow University of Technolog
 ### 📫 How to reach me:
 * **Email:** [jakubkrol004@gmail.com](mailto:jakubkrol004@gmail.com)
 * **LinkedIn:** [Jakub Król](https://www.linkedin.com/in/jakub-kr%C3%B3l-b74443254/)
-* **Location:** Kraków, Poland
+
