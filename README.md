@@ -12,16 +12,17 @@ I am an **Applied Computer Science** student at **Cracow University of Technolog
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **PriceNest** | AI agent-based price monitoring system with intelligent data analysis and advanced scraping. | .NET 9, Semantic Kernel, Node.js, Playwright, PostgreSQL 
-| **RecipeNest** | Cross-platform recipe management system featuring offline support and external API integration. | .NET MAUI, ASP.NET Core, PostgreSQL, SQLite 
-| **MovieTracker** | Movie tracking application with a recommendation engine, JWT auth, and TMDB integration. | React, Node.js, Express, Python, Flask, PostgreSQL 
-| **SyncBoard** | Real-time collaborative drawing application with instant synchronization and a Scribble game mode. | TypeScript, Next.js, Express.js, WebSockets 
-| **NeuralNetwork** | Custom neural network architectures built from scratch, featuring MNIST recognition and an AI Flappy Bird bot. | Python, Machine Learning, Genetic Algorithms, Pygame 
-| **WateringSystem** | Smart irrigation system based on ESP32/Arduino with soil/water sensors, weather station, and web captive portal. | C++, IoT, Embedded Systems 
+| **OrbitVision** | Real-time 3D satellite tracking platform featuring client-side SGP4 orbital propagation for high-precision visualization. | ASP.NET Core, React, CesiumJS, SGP4 | https://github.com/OrbitVision/OrbitVision |
+| **PriceNest** | AI agent-based price monitoring system with intelligent data analysis and advanced scraping. | .NET 9, Semantic Kernel, Node.js, Playwright, PostgreSQL | https://github.com/jakkrol/PriceNest |
+| **RecipeNest** | Cross-platform recipe management system featuring offline support and external API integration. | .NET MAUI, ASP.NET Core, PostgreSQL, SQLite | https://github.com/jakkrol/RecipeNest |
+| **MovieTracker** | Movie tracking application with a recommendation engine, JWT auth, and TMDB integration. | React, Node.js, Express, Python, Flask, PostgreSQL | https://github.com/jakkrol/movie_tracker |
+| **SyncBoard** | Real-time collaborative drawing application with instant synchronization and a Scribble game mode. | TypeScript, Next.js, Express.js, WebSockets | https://github.com/jakkrol/SyncBoard |
+| **NeuralNetwork** | Custom neural network architectures built from scratch, featuring MNIST recognition and an AI Flappy Bird bot. | Python, Machine Learning, Genetic Algorithms, Pygame | https://github.com/jakkrol/NeuralNetwork |
+| **WateringSystem** | Smart irrigation system based on ESP32/Arduino with soil/water sensors, weather station, and web captive portal. | C++, IoT, Embedded Systems | https://github.com/jakkrol/WateringSystem |
 
 ---
 
 ### 📫 How to reach me:
 * **Email:** [jakubkrol004@gmail.com](mailto:jakubkrol004@gmail.com)
 * **LinkedIn:** [Jakub Król](https://www.linkedin.com/in/jakub-kr%C3%B3l-b74443254/)
-* **Website:** [jakkrol.pl](https://jakkrol.pl)
+* **Website:** [jakkrol.pl](https://jakkrol.pl) — *You can see more detailed info about me and my projects on my website!*
